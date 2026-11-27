@@ -1,4 +1,4 @@
-#  Boletín de Calificaciones
+# Boletín de Calificaciones
 
 ## Descripción
 
@@ -32,31 +32,13 @@ Con el programa puedo registrar estudiantes, escoger las asignaturas, poner las 
 - Windows Forms
 - Visual Studio
 
-## Capturas del proyecto
+## Captura del proyecto
 
-### Imagen 1 — Primer estudiante
+![Captura del programa Boletín de Calificaciones](4.png)
 
-![Imagen 1: primer estudiante registrado](1%20.png)
+En esta captura se ve el programa funcionando con varios estudiantes registrados. En el cuadro **Boletín del estudiante** aparecen sus líneas con el nombre, la asignatura, la tanda, el promedio y si quedó aprobada o en recuperación. Por ejemplo, **Ana Reyes** en Ciencias Sociales sacó **94,50** y quedó aprobada.
 
-Aquí registré a **Franyeliz Puello**, de la tanda matutina, en **Matemática**. En el boletín sale con promedio de **84,50** y aprobada. En el resumen se ve el promedio general de 84,50, 1 asignatura aprobada, 0 en recuperación y la situación **Aprobado**. Los campos quedaron vacíos para registrar al siguiente.
-
-### Imagen 2 — Segundo estudiante
-
-![Imagen 2: segundo estudiante registrado](2.png)
-
-Después agregué a **Rosangelis Reyes**, de la tanda vespertina, en **Ciencias Naturales**. Le salió promedio de **67,00**, así que quedó **en recuperación**. Ahora el boletín tiene dos líneas y el resumen cambió: promedio general de **75,75**, 1 aprobada, 1 en recuperación y la situación **En recuperación**.
-
-### Imagen 3 — Llenando los datos de otro registro
-
-![Imagen 3: llenando los datos antes de registrar](3.png)
-
-Aquí estoy llenando los datos de **Ana Reyes**, de la tanda matutina, antes de registrarla: asignatura **Ciencias Sociales**, notas **90, 90, 98 y 100**, y con la asistencia mínima marcada. En el boletín ya hay tres registros, y el resumen en ese momento dice promedio general de **73,58**, 1 aprobada y 2 en recuperación.
-
-### Imagen 4 — Después de registrar
-
-![Imagen 4: resultado después de registrar](4.png)
-
-Al darle a *Registrar asignatura*, se agregó la línea de **Ana Reyes | Ciencias Sociales | Matutina | Promedio: 94,50 | Aprobada**, que es el promedio de 90, 90, 98 y 100. El formulario se limpió y el resumen se actualizó: promedio general de **78,81**, **2 aprobadas**, **2 en recuperación** y situación **En recuperación**.
+En el cuadro **Resumen** se ve el resultado general: promedio general de **78,81**, **2 aprobadas**, **2 en recuperación** y la situación **En recuperación**. Los campos del formulario quedaron vacíos después de registrar, listos para el siguiente estudiante.
 
 ##  Autora
 
