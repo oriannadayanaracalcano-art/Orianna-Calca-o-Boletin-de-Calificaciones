@@ -1,4 +1,4 @@
-# 📘 Boletín de Calificaciones
+#  Boletín de Calificaciones
 
 ## Descripción
 
@@ -58,7 +58,7 @@ Aquí estoy llenando los datos de **Ana Reyes**, de la tanda matutina, antes de 
 
 Al darle a *Registrar asignatura*, se agregó la línea de **Ana Reyes | Ciencias Sociales | Matutina | Promedio: 94,50 | Aprobada**, que es el promedio de 90, 90, 98 y 100. El formulario se limpió y el resumen se actualizó: promedio general de **78,81**, **2 aprobadas**, **2 en recuperación** y situación **En recuperación**.
 
-## 👩‍💻 Autora
+##  Autora
 
 **Orianna Dayanara Calcaño Reyes**
 
