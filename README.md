@@ -32,7 +32,7 @@ Con el programa puedo registrar estudiantes, escoger las asignaturas, poner las 
 - Windows Forms
 - Visual Studio
 
-## 📸 Capturas del proyecto
+## Capturas del proyecto
 
 ### Imagen 1 — Primer estudiante
 
